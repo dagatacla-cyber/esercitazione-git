@@ -1,3 +1,5 @@
 # Inventario
 
-- [Schede Madri](schede_madri.md)
+## Componenti
+- [Processori](componenti/processori.md)
+- [Schede Madri](componenti/schede_madri.md)
