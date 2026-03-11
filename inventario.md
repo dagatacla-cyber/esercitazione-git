@@ -1,0 +1,3 @@
+# Inventario
+
+- [Processori](processori.md)
